@@ -6,5 +6,5 @@
 - ✉️ Контакт: siyovush@gmail.com  
 
 
-### WakaTime Stats
-![Siyovush's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?https://wakatime.com/@siyavush1411)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=siyavush1411&theme=radical)
+
