@@ -1,9 +1,8 @@
 # Привет! 👋  
-Меня зовут Сиёвуш, я full-stack разработчик.  
-- 🛠 Использую Python,.  
-- 🌍 Живу в Таджикистане.  
-- 🧠 Постоянно учусь и развиваюсь в технологиях. (Иногда не постоянно:)
-- ✉️ Контакт: siyovush@gmail.com  
+Меня зовут Сиёвуш, я backend разработчик. мой  стек
+
+Django, Django rest framework, Fast API, SQL alchemy, Pydentic, CI/CD, Linux, Celery, postgres, MSSQL Server 
+
 
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=siyavush1411&theme=radical)
