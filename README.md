@@ -34,9 +34,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siyavush1411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&icon_color=7A3FF7)](https://github.com/Siyavush1411)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siyavush1411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7A3FF7)](https://github.com/Siyavush1411)
 
-[![WakaTime OS Stats](https://github-readme-stats.vercel.app/api/wakatime?username=siyavush1411&layout=compact&custom_title=Время%20кодинга%20по%20ОС&langs_count=3&hide_progress=true&v=2&range=all_time&theme=radical&bg_color=0d1117&title_color=7A3FF7&bar_height=10&show_other=false)](https://wakatime.com/@siyavush1411)
-</div>
-
 <div align="center">
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=siyavush1411&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7)](https://wakatime.com/@siyavush1411)
