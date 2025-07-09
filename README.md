@@ -31,8 +31,8 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siyovush1411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&icon_color=7A3FF7)](https://github.com/Siyovush)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siyovush1411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7A3FF7)](https://github.com/Siyovush)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siyavush1411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&icon_color=7A3FF7)](https://github.com/Siyovush)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siyavush1411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7A3FF7)](https://github.com/Siyovush)
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Siyovush&theme=radical&hide_border=true&background=0D1117&stroke=7A3FF7&ring=7A3FF7&fire=7A3FF7&currStreakNum=FFFFFF&sideNums=7A3FF7&currStreakLabel=7A3FF7)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Siyavush1411&theme=radical&hide_border=true&background=0D1117&stroke=7A3FF7&ring=7A3FF7&fire=7A3FF7&currStreakNum=FFFFFF&sideNums=7A3FF7&currStreakLabel=7A3FF7)](https://git.io/streak-stats)
 
 </div>
 
