@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siyavush1411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&icon_color=7A3FF7)](https://github.com/Siyovush)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siyavush1411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3FF7&icon_color=7A3FF7)](https://github.com/Siyavush1411)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siyavush1411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7A3FF7)](https://github.com/Siyavush1411)
 
 </div>
